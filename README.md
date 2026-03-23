@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**DJNanYu/DJNanYu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm DJNanYu 👋
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 🔭 I’m currently working on Android customization and LSPosed modules.
+- 🌱 I’m learning more about system-level hooks and reverse engineering.
+- ⚡ Fun fact: I love exploring the possibilities of Android Open Source Project.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![DJNanYu's GitHub stats](https://github-readme-stats.vercel.app/api?username=DJNanYu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DJNanYu&layout=compact&theme=radical)
+
+## 🛠 Skills
+- **Languages:** Python, Java, C++, Lua
+- **Tools:** Git, Android Studio, LSPosed, Magisk
